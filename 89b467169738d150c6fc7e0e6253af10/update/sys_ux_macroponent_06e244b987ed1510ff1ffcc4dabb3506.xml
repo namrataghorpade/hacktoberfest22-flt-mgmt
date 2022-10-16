@@ -587,6 +587,7 @@
         <da_relay_models/>
         <data>[ ]</data>
         <dispatched_events>15b5c97987a15510ff1ffcc4dabb3579,e432c9f587a15510ff1ffcc4dabb355a,98283c3187a15510ff1ffcc4dabb35e6</dispatched_events>
+        <events/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <handled_events/>
         <interactions/>

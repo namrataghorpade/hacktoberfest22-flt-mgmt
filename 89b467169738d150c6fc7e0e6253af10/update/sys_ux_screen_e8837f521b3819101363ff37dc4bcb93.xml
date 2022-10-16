@@ -12,12 +12,11 @@
         <required_translations>[ ]</required_translations>
         <rollback_screen/>
         <screen_condition/>
-        <screen_type display_value="GQL Test">a483b3521b3819101363ff37dc4bcb9e</screen_type>
+        <screen_type/>
         <sys_class_name>sys_ux_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-07-22 16:11:33</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>e8837f521b3819101363ff37dc4bcb93</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>GQL Test default</sys_name>
@@ -29,5 +28,4 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-07-22 16:11:33</sys_updated_on>
     </sys_ux_screen>
-    <sys_translated_text action="delete_multiple" query="documentkey=e8837f521b3819101363ff37dc4bcb93"/>
 </record_update>
