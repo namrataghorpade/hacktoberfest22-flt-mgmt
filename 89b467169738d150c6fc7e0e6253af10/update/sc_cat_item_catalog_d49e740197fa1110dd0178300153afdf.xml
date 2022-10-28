@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Fleet Management Vehicle On Road History">3d3bb40d97ba1110dd0178300153afd0</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 15:54:10</sys_created_on>
+        <sys_id>d49e740197fa1110dd0178300153afdf</sys_id>
+        <sys_name>Service Catalog.Fleet Management Vehicle On Road History</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_d49e740197fa1110dd0178300153afdf</sys_update_name>
+    </sc_cat_item_catalog>
+</record_update>
