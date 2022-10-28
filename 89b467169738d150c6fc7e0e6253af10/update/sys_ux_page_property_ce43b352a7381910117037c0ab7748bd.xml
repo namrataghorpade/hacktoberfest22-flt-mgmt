@@ -7,6 +7,9 @@
         <required_translations>[ {
   "message" : "New Maint req",
   "comment" : ""
+}, {
+  "message" : "New Vehicle",
+  "comment" : ""
 } ]</required_translations>
         <route/>
         <suffix/>
@@ -44,6 +47,26 @@
          "condition":{&#13;
             "tableDescription":{&#13;
                "table":"x_snc_flt_mgmt_maint_req",&#13;
+               "canCreate":true&#13;
+            }&#13;
+         }&#13;
+      },&#13;
+      {&#13;
+         "label":{&#13;
+            "translatable":true,&#13;
+            "message":"New Vehicle"&#13;
+         },&#13;
+         "routeInfo":{&#13;
+            "route":"record",&#13;
+            "fields":{&#13;
+               "table":"x_snc_flt_mgmt_vehicle",&#13;
+               "sysId":"-1"&#13;
+            },&#13;
+            "multiInstField":"sysId"&#13;
+         },&#13;
+         "condition":{&#13;
+            "tableDescription":{&#13;
+               "table":"x_snc_flt_mgmt_vehicle",&#13;
                "canCreate":true&#13;
             }&#13;
          }&#13;

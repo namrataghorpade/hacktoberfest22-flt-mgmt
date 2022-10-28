@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_dictionary action="INSERT_OR_UPDATE" element="vehicle" table="x_snc_flt_mgmt_maint_task">
-        <active>true</active>
+        <active>false</active>
         <array>false</array>
         <attributes>encode_utf8=false</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Vehicle</column_label>
